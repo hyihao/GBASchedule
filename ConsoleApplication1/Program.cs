@@ -14,6 +14,8 @@ namespace ConsoleApplication1
             int num = 0;
             bool flag = true;
             bool f = false;
+            bool c = false;
+
         }
     }
 }
