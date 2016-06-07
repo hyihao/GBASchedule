@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             string ss = "";
             int num = 0;
+            bool flag = true;
         }
     }
 }
